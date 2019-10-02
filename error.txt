@@ -1,0 +1,21 @@
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for C_bpjs::cek_peserta()</p>
+<p>Filename: controllers/c_bpjs.php</p>
+<p>Line Number: 4</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: nik</p>
+<p>Filename: controllers/c_bpjs.php</p>
+<p>Line Number: 11</p>
+
+</div>0
+0000097707947
+3578041008840001

@@ -1,0 +1,5 @@
+insert into config_hak_akses(`id`,`group`,`id_menu`) values (141,'all',6)
+
+SELECT m.* FROM config_menu m 
+									JOIN config_hak_akses a ON m.id_menu = a.id_menu 
+									WHERE a.group = "all" ORDER BY a.id
